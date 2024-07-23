@@ -69,4 +69,4 @@ There are 4 parts to getting the script working;
 
 ## -= Example Dashboard =-
 
-![screenshot][img/grafana-node-exporter-adv.JPG]
+![screenshot](img/grafana-node-exporter-adv.JPG)
