@@ -16,7 +16,7 @@
 echo "=== $BASH_SOURCE on $(hostname -f) at $(date)" >&2
 
 # Define packages
-packages=("jq" "awk" "grep" "sort" "head""mktemp" "curl" "unzip" "wget" "head" "sort")
+packages=("jq" "awk" "grep" "sort" "head""mktemp" "curl" "unzip" "wget" "head" "sort" "parallel" )
 
 # Install packages based on package manager
 if command -v apt-get &>/dev/null; then
