@@ -66,3 +66,7 @@ There are 4 parts to getting the script working;
         `https://raw.githubusercontent.com/jadkins-me/NTracking/main/node-exporter/01-grafana-dashboard-nodes_adv`
 
     When prompted for a Datasource, select the existing instance of InfluxDB
+
+## -= Example Dashboard =-
+
+![screenshot][img/grafana-node-exporter-adv.JPG]
