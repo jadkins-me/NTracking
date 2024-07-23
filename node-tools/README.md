@@ -12,7 +12,7 @@ Download the script from Github, to your downloads folder - click the link below
 
 Locate the script `node-tools` in the `downloads` folder
 
-right-click on it, and select `Run With Powershell`
+right-click on it, and select `Run With Powershell` 
 
 *Note1:* You might get prompted with Windows execution exception, asking if you trust the script - the default is `N` - no, you will need to select `y` yes, else it might not work correctly.
 
