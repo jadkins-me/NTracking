@@ -1,4 +1,4 @@
-# node-exporter-adv.sh
+# node-exporter-adv
 
 This script is based on the original `influx-resources.sh`, but changes the functionality to be decoupled - You will need to be running a working influxDB and Grafana System, along with telegraf agent installed on the node machine.
 
